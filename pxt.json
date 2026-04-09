@@ -1,5 +1,6 @@
 {
     "name": "hate of world that was never thinking about me",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
